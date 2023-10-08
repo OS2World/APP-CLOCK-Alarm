@@ -1,0 +1,2 @@
+#define SIGALRM SIGUSR1
+ULONG alarm(ULONG);
